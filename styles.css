@@ -32,3 +32,10 @@ body {
     background: #0073e6;
     color: white;
   }
+  .profile-image {
+    width: 150px; /* Adjust the size */
+    height: 150px; /* Make it square */
+    border-radius: 50%; /* Make it circular */
+    display: block;
+    margin: 10px auto; /* Center the image */
+  }
